@@ -1,0 +1,24 @@
+#Kotak_solid{
+    background-color: blue;
+    width: 250px;
+    height: 200px;
+    font-family: Tahoma;
+    padding: 10px;
+}
+
+#Kotak_shadow{
+    background-color: yellow;
+    width: 250px;
+    height: 200px;
+    font-family: Tahoma;
+    box-shadow: 0 5px 20px rgba(0, 0,0, 0.25);
+    color: red;
+    padding: 10px;
+}
+
+#Kotak_Gradient{
+    background: linear-gradient(green,yellow);
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+}  
